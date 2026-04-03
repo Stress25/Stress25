@@ -2,6 +2,9 @@
 
 CS student based in Chicago, IL passionate about machine learning and big data. I build end-to-end ML pipelines — from semantic segmentation and large-scale recommendation systems on AWS EMR to deep learning applications in computer vision and NLP. Currently working on content extraction from lecture videos using audio transcripts and graphical analysis.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 <!--
 **Stress25/Stress25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
