@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+CS student based in Chicago, IL passionate about machine learning and big data. I build end-to-end ML pipelines — from semantic segmentation and large-scale recommendation systems on AWS EMR to deep learning applications in computer vision and NLP. Currently working on content extraction from lecture videos using audio transcripts and graphical analysis.
+
 <!--
 **Stress25/Stress25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
