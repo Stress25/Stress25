@@ -4,7 +4,9 @@ CS student based in Chicago, IL passionate about machine learning and big data. 
 
 <!--
 **Stress25/Stress25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
